@@ -2,6 +2,10 @@
 
 ## Packages
 
+python version 3.10.5
+to start, go to this directory in cmd, "py main.py"
+
+
 discord.py, pip install discord.py
 dotenv, pip install dotenv
 
